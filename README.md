@@ -65,6 +65,12 @@ This README provides instructions on how to compile and run the RecipeApp softwa
 
 4. Ensure that you have the necessary .NET Framework version installed on your machine to run the application successfully. 
 
+#LINK
+https://github.com/ST10103386/prog6221
+
+#BRIEF DESCRIPTION
+
+The RecipeApp has undergone substantial enhancements to provide a more user-friendly and comprehensive recipe management experience. With the addition of a graphical user interface (GUI) built using Windows Presentation Foundation (WPF), i made the app to  now offer a modern and intuitive interface for users to interact with. Users can now enter an unlimited number of recipes, assign names to recipes, and view a list of recipes in alphabetical order. Furthermore, users can now input additional ingredient details, such as calories and food groups, and the app calculates the total calories of each recipe. The app also features a filtering option, enabling users to search for recipes based on specific ingredient names, food groups, or maximum calorie values. These improvements make RecipeApp a powerful tool for organizing, scaling, and discovering recipes effortlessly. 
   
 
 Enjoy using the RecipeApp to manage your favorite recipes with ease! 
